@@ -29,7 +29,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,vue,nginx,git,linux,nuxt,bash,notion &perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,vue,nginx,git,linux,nuxt,bash,notion&perline=6" alt="Tech Stack" />
 </p>
 
 ## Featured Projects
