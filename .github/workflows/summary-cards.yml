@@ -1,10 +1,10 @@
 name: GitHub Profile Summary Cards
 
 on:
-  schedule:
-  - cron: "0 0 * * *"
   workflow_dispatch:
-  
+  schedule:
+    - cron: "0 0 * * *"
+
 permissions:
   contents: write
 
@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
@@ -22,4 +23,3 @@ jobs:
           UTC_OFFSET: 3
           EXCLUDE: ""
           AUTO_PUSH: true
-
