@@ -49,9 +49,18 @@ Backend-focused projects with real-world flows, persistence, integrations and au
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Most commit language" />
-  <img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg" />
+    <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg" />
+    <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  </picture>
 </p>
+
 
 
 ## Selected Repositories
