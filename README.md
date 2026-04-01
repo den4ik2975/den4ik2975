@@ -47,15 +47,18 @@ Experimental interpreted programming language written in F# with custom syntax, 
 Backend-focused projects with real-world flows, persistence, integrations and automation.
 
 ## GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=den4ik2975&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=den4ik2975&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img width="48%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+  <img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=den4ik2975&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="48%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
 </p>
+
 
 ## Selected Repositories
 
