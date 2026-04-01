@@ -42,6 +42,10 @@ Backend for uploading and analyzing chess games with support for background task
 
 Experimental interpreted programming language written in F# with custom syntax, parser, AST and evaluator.
 
+### 🌌 Solar System in a Glass Sphere
+
+3D rendering project built on top of a Vulkan-based engine (Veekay).
+
 ### 🤖 Telegram Bots & Pet Projects
 
 Backend-focused projects with real-world flows, persistence, integrations and automation.
@@ -68,6 +72,7 @@ Backend-focused projects with real-world flows, persistence, integrations and au
 <p align="center">
   <a href="https://github.com/den4ik2975/MD-Sharp"><b>MD-Sharp</b></a> •
   <a href="https://github.com/Madagascam/backend"><b>Chess Analysis Backend</b></a>
+  <a href="https://github.com/den4ik2975/vulkan-solar-system"><b>Solar System in a Glass Sphere</b></a>
 </p>
 
 ## Contribution Snake
