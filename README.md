@@ -29,7 +29,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,git,linux,bash,pytest,fsharp&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,git,linux,bash,pytest,fsharp,vue&perline=6" alt="Tech Stack" />
 </p>
 
 ## Featured Projects
@@ -47,15 +47,9 @@ Experimental interpreted programming language written in F# with custom syntax, 
 Backend-focused projects with real-world flows, persistence, integrations and automation.
 
 ## GitHub Stats
-## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
-  <img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
-</p>
-
-<p align="center">
-  <img width="48%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Most commit language" />
   <img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
 </p>
 
