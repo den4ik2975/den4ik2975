@@ -71,7 +71,7 @@ Backend-focused projects with real-world flows, persistence, integrations and au
 
 <p align="center">
   <a href="https://github.com/den4ik2975/MD-Sharp"><b>MD-Sharp</b></a> •
-  <a href="https://github.com/Madagascam/backend"><b>Chess Analysis Backend</b></a>
+  <a href="https://github.com/Madagascam/backend"><b>Chess Analysis Backend</b></a> • 
   <a href="https://github.com/den4ik2975/vulkan-solar-system"><b>Solar System in a Glass Sphere</b></a>
 </p>
 
